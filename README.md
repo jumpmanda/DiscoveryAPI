@@ -1,5 +1,5 @@
 # DiscoveryAPI
-Sample .NET Core 3.1 App  w/ MongoDB
+###### Sample .NET Core 3.1 App  w/ MongoDB
 
 This app is an example of a very basic web API with storage backed by MongoDB. 
 
